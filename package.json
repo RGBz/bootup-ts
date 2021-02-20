@@ -1,0 +1,19 @@
+{
+  "name": "bootup",
+  "version": "1.0.0",
+  "description": "Yet another code project creation tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGBz/bootup.git"
+  },
+  "author": "RGBz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RGBz/bootup/issues"
+  },
+  "homepage": "https://github.com/RGBz/bootup#readme"
+}
