@@ -1,7 +1,7 @@
 {
-  "name": "bootup",
+  "name": "bootup-ts",
   "version": "1.0.0",
-  "description": "Yet another code project creation tool.",
+  "description": "Project template for TypeScript and Jest.",
   "main": "develop.js",
   "scripts": {
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RGBz/bootup.git"
+    "url": "git+https://github.com/RGBz/bootup-ts.git"
   },
   "author": "RGBz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RGBz/bootup/issues"
+    "url": "https://github.com/RGBz/bootup-ts/issues"
   },
-  "homepage": "https://github.com/RGBz/bootup#readme",
+  "homepage": "https://github.com/RGBz/bootup-ts#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@typescript-eslint/eslint-plugin": "^4.15.1",
